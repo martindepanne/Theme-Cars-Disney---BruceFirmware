@@ -1,6 +1,6 @@
 # 🚗 Theme Cars - Bruce Firmware (T-Embed CC1101)
 
-![Preview](screenshots/Sergent.png)
+![Preview](Screenshot/Sergent.png)
 
 [Français](#français) | [English](#english)
 
