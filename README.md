@@ -24,7 +24,6 @@ Pour installer ce thème dans la mémoire interne (**LittleFS**) de votre T-Embe
 5. Placez le fichier `boot.gif` à la racine du répertoire LittleFS.
 6. **Redémarrez le T-Embed** et activez le thème depuis le menu des paramètres de l'interface.
 
-⚠️ **Important :** Assurez-vous que le fichier `boot.gif` reste léger et optimisé pour ne pas saturer la mémoire flash du T-Embed.
 
 ---
 
@@ -48,4 +47,6 @@ To install this theme into the internal memory (**LittleFS**) of your T-Embed:
 5. Place the `boot.gif` file at the root of the LittleFS directory.
 6. **Reboot your T-Embed** and select the theme from the UI settings menu.
 
-⚠️ **Important:** Ensure that the `boot.gif` file remains lightweight and optimized so it doesn't overload the T-Embed's internal flash storage.
+[Bruce Firmware](https://github.com/BruceDevices/firmware)
+[Bruce Firmware Easy Install](https://bruce.computer/flasher)
+[LilyGO T-Embed (CC1101)](https://www.lilygo.cc/products/t-embed)
