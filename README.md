@@ -13,7 +13,7 @@ Ce pack contient un thème personnalisé pour le firmware Bruce sur **LilyGO T-E
 ### 📦 Contenu du pack
 * Fichiers `.bmp` (Icônes de l'interface)
 * `Theme_Cars.json` (Fichier de configuration du thème)
-* `boot.gif` (Animation de démarrage optimisée en 128x64)
+* `boot.gif` (Animation de démarrage optimisée en 320x170)
 
 ### ⚙️ Procédure d'installation (LittleFS)
 
@@ -36,7 +36,7 @@ This pack contains a custom theme for the Bruce firmware running on the **LilyGO
 ### 📦 Pack Contents
 * `.bmp` files (UI Icons)
 * `Theme_Cars.json` (Theme configuration file)
-* `boot.gif` (Optimized 128x64 boot animation)
+* `boot.gif` (Optimized 320x170 boot animation)
 
 ### ⚙️ Installation Procedure (LittleFS)
 
@@ -50,5 +50,7 @@ To install this theme into the internal memory (**LittleFS**) of your T-Embed:
 6. **Reboot your T-Embed** and select the theme from the UI settings menu.
 
 [Bruce Firmware](https://github.com/BruceDevices/firmware)
+
 [Bruce Firmware Easy Install](https://bruce.computer/flasher)
+
 [LilyGO T-Embed (CC1101)](https://www.lilygo.cc/products/t-embed)
