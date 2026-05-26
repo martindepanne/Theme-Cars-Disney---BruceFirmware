@@ -50,5 +50,7 @@ To install this theme into the internal memory (**LittleFS**) of your T-Embed:
 6. **Reboot your T-Embed** and select the theme from the UI settings menu.
 
 [Bruce Firmware](https://github.com/BruceDevices/firmware)
+
 [Bruce Firmware Easy Install](https://bruce.computer/flasher)
+
 [LilyGO T-Embed (CC1101)](https://www.lilygo.cc/products/t-embed)
