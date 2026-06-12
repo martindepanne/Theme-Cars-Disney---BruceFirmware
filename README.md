@@ -24,7 +24,8 @@ Pour installer ce thème dans la mémoire interne (**LittleFS**) de votre T-Embe
 3. Naviguez jusqu'au dossier `/Themes`.
 4. **Copiez le dossier** `Theme_Cars` (contenant les fichiers `.bmp` et le fichier `Theme_Cars.json`) directement à l'intérieur du dossier `/Themes`.
 5. Placez le fichier `boot.gif` à la racine du répertoire LittleFS.
-6. **Redémarrez le T-Embed** et activez le thème depuis le menu des paramètres de l'interface.
+6. Placez le fichier `boot.wav` à la racine du répertoire LittleFS.
+7. **Redémarrez le T-Embed** et activez le thème depuis le menu des paramètres de l'interface.
 
 
 ---
@@ -47,7 +48,8 @@ To install this theme into the internal memory (**LittleFS**) of your T-Embed:
 3. Navigate to the `/Themes` directory.
 4. **Copy the** `Theme_Cars` folder (containing the `.bmp` files and `Theme_Cars.json`) directly into the `/Themes` folder.
 5. Place the `boot.gif` file at the root of the LittleFS directory.
-6. **Reboot your T-Embed** and select the theme from the UI settings menu.
+6. Place the `boot.wav` file at the root of the LittleFS directory.
+7. **Reboot your T-Embed** and select the theme from the UI settings menu.
 
 [Bruce Firmware](https://github.com/BruceDevices/firmware)
 
